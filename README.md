@@ -8,7 +8,7 @@
 
 ## 📌 Présentation
 
-**PPTX Analyzer** est un logiciel puissant permettant de **scanner, analyser et rechercher du texte** dans des fichiers PowerPoint `.pptx`.  
+**PPTX Analyzer** est un logiciel permettant de **scanner, analyser et rechercher du texte** dans des fichiers PowerPoint `.pptx`.  
 Grâce à son **interface moderne et intuitive**, il offre une navigation fluide et une recherche avancée sur le contenu des fichiers.
 
 ---
