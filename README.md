@@ -1,5 +1,5 @@
 # 📂 PPTX Analyzer
-![NoTemp](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge) 
+![pptx-analyzer](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge) 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)
 ![PPTX Analyzer](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![wxPython](https://img.shields.io/badge/wxPython-UI-red?style=for-the-badge)
