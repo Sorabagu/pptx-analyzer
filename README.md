@@ -4,6 +4,8 @@
 ![PPTX Analyzer](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![wxPython](https://img.shields.io/badge/wxPython-UI-red?style=for-the-badge)
 
+![pptx](https://raw.githubusercontent.com/Sorabagu/pptx-analyzer/refs/heads/main/icon.png)
+
 ## 📌 Présentation
 
 **PPTX Analyzer** est un logiciel puissant permettant de **scanner, analyser et rechercher du texte** dans des fichiers PowerPoint `.pptx`.  
