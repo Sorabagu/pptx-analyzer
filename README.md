@@ -42,3 +42,14 @@ git clone https://github.com/ton-github/pptx-analyzer.git
 cd pptx-analyzer
 pip install -r requirements.txt
 ```
+---
+
+## 🌐 **Installation en .exe**
+
+> 1. Lien de téléchargement : [ici](https://github.com/Sorabagu/pptx-analyzer/releases/latest)
+>
+> 2. Lancer l'exécutable `setup_pptx_analyzer_1.X.exe`
+>
+> 3. Installer le logiciel
+>
+> 4. Lancer `PPTX Analyzer` depuis le bureau
